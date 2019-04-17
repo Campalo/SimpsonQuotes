@@ -15,7 +15,7 @@ class Lamp extends Component {
     this.setState({ on: !this.state.on });
   };
   render() {
-    const light = this.props.on ? 'on': 'off';
+    const light = this.state.on ? 'on': 'off';
     return (
       <div className="Lamp">
         {/* button represents the switch */}
