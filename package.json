@@ -2,7 +2,7 @@
   "name": "simpsons-quotes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Campalo/SimpsonQuotes.git",
+  "homepage": "https://campalo.github.io/SimpsonQuotes/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
