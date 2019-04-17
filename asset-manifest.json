@@ -1,14 +1,14 @@
 {
-  "main.css": "/Campalo/SimpsonQuotes.git/static/css/main.90e617ad.chunk.css",
-  "main.js": "/Campalo/SimpsonQuotes.git/static/js/main.e424564e.chunk.js",
-  "main.js.map": "/Campalo/SimpsonQuotes.git/static/js/main.e424564e.chunk.js.map",
-  "runtime~main.js": "/Campalo/SimpsonQuotes.git/static/js/runtime~main.3d9a4bb4.js",
-  "runtime~main.js.map": "/Campalo/SimpsonQuotes.git/static/js/runtime~main.3d9a4bb4.js.map",
-  "static/js/2.5021ba90.chunk.js": "/Campalo/SimpsonQuotes.git/static/js/2.5021ba90.chunk.js",
-  "static/js/2.5021ba90.chunk.js.map": "/Campalo/SimpsonQuotes.git/static/js/2.5021ba90.chunk.js.map",
-  "index.html": "/Campalo/SimpsonQuotes.git/index.html",
-  "precache-manifest.60eb5333cece3cb8713ac6cc274b616f.js": "/Campalo/SimpsonQuotes.git/precache-manifest.60eb5333cece3cb8713ac6cc274b616f.js",
-  "service-worker.js": "/Campalo/SimpsonQuotes.git/service-worker.js",
-  "static/css/main.90e617ad.chunk.css.map": "/Campalo/SimpsonQuotes.git/static/css/main.90e617ad.chunk.css.map",
-  "static/media/logo.svg": "/Campalo/SimpsonQuotes.git/static/media/logo.ee7cd8ed.svg"
+  "main.css": "/SimpsonQuotes/static/css/main.90e617ad.chunk.css",
+  "main.js": "/SimpsonQuotes/static/js/main.38913e1a.chunk.js",
+  "main.js.map": "/SimpsonQuotes/static/js/main.38913e1a.chunk.js.map",
+  "runtime~main.js": "/SimpsonQuotes/static/js/runtime~main.c62bc792.js",
+  "runtime~main.js.map": "/SimpsonQuotes/static/js/runtime~main.c62bc792.js.map",
+  "static/js/2.5021ba90.chunk.js": "/SimpsonQuotes/static/js/2.5021ba90.chunk.js",
+  "static/js/2.5021ba90.chunk.js.map": "/SimpsonQuotes/static/js/2.5021ba90.chunk.js.map",
+  "index.html": "/SimpsonQuotes/index.html",
+  "precache-manifest.a456037c765a691f431c696e8b2c7b40.js": "/SimpsonQuotes/precache-manifest.a456037c765a691f431c696e8b2c7b40.js",
+  "service-worker.js": "/SimpsonQuotes/service-worker.js",
+  "static/css/main.90e617ad.chunk.css.map": "/SimpsonQuotes/static/css/main.90e617ad.chunk.css.map",
+  "static/media/logo.svg": "/SimpsonQuotes/static/media/logo.ee7cd8ed.svg"
 }

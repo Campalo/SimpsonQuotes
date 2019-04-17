@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Campalo/SimpsonQuotes.git/precache-manifest.60eb5333cece3cb8713ac6cc274b616f.js"
+  "/SimpsonQuotes/precache-manifest.a456037c765a691f431c696e8b2c7b40.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Campalo/SimpsonQuotes.git/index.html", {
+workbox.routing.registerNavigationRoute("/SimpsonQuotes/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
