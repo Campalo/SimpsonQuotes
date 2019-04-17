@@ -8,9 +8,39 @@
   pointer-events: none;
 }
 
+
+/* my code */
+.App-logo-stop {
+  animation : none;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.My-button {
+  padding: 15px;
+  background: orange;
+  color: white;
+  font-size: 1rem;
+  border : none;
+  box-shadow: 10px 10px 10px #000000;
+}
+
+.My-button:hover {
+  background: rgb(228, 132, 22);
+}
+
+.My-column {
+  display : flex;
+  flex-direction : column;
+  justify-content: center;
+  align-items: center;
+}
+/* until here */
+
+
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #2f487a;
+  min-height: 50vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -31,3 +61,5 @@
     transform: rotate(360deg);
   }
 }
+
+

@@ -1,9 +1,10 @@
 import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import Lamp from "./Lamp";
-
 import Quotes from "./Quotes";
+import Lamp from "./Lamp";
+import MyLogo from "./Logo";
+
 
 class App extends Component {
   render() {   
@@ -11,12 +12,12 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Simpsons Quotes</h1>
+          <MyLogo working />
         </header>
         <Lamp on/>
         <Lamp />
-        <Quotes></Quotes>
+        <Quotes/>
       </div>
     );
   }
