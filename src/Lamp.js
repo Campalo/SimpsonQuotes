@@ -1,8 +1,8 @@
-import React, {Component} from 'react';
+import React, { Component } from "react";
 
 class Lamp extends Component {
-  // Thanks to those following lines, 
-  // the lamp rendering now depends on the state, 
+  // Thanks to those following lines,
+  // the lamp rendering now depends on the state,
   // and not on the props any more
   constructor(props) {
     super(props);
@@ -15,14 +15,14 @@ class Lamp extends Component {
     this.setState({ on: !this.state.on });
   };
   render() {
-    const light = this.props.on ? 'on': 'off';
+    const light = this.state.on ? "on" : "off";
     return (
       <div className="Lamp">
         {/* button represents the switch */}
         {/* the onClick property has for value a method */}
         <button className={light} onClick={this.handleClick}>
-            {light.toUpperCase()}
-        </button>   
+          {light.toUpperCase()}
+        </button>
         {/* figure represents the bulb */}
         <figure className={light} />
       </div>

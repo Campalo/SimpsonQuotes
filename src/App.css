@@ -3,14 +3,54 @@
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+  animation: App-logo-spin infinite 5s linear;
+  height: 20vmin;
   pointer-events: none;
 }
 
+/* my code */
+.App-logo-stop {
+  animation: none;
+  height: 20vmin;
+  pointer-events: none;
+}
+
+.My-button {
+  margin: 10px;
+  padding: 15px;
+  background: orange;
+  color: white;
+  font-size: 1.2rem;
+  border: none;
+  box-shadow: 6px 10px 10px #000000c9;
+}
+
+.My-button:hover {
+  background: rgb(228, 132, 22);
+}
+
+.My-form {
+  margin: 10px;
+  padding: 15px;
+  background: #61dafb;
+  color: white;
+  font-size: 1.2rem;
+  border: none;
+  box-shadow: 6px 10px 10px #000000c9;
+  width: 300px;
+}
+
+.My-column {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+/* until here */
+
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #2f487a;
+  min-height: 70vh;
   display: flex;
   flex-direction: column;
   align-items: center;
